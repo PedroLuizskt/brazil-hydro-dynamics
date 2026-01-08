@@ -100,7 +100,7 @@ brazil-hydro-dynamics/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/brazil-hydro-dynamics.git
+git clone https://github.com/PedroLuizskt/brazil-hydro-dynamics.git
 cd brazil-hydro-dynamics
 
 ```
