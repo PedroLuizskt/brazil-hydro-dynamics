@@ -32,7 +32,7 @@ The repository is divided into three distinct analytical modules:
 * **Source:** WWF HydroATLAS v1.
 * **Function:** Delimits and analyzes level-10 micro-basins intersecting the municipality.
 * **Outputs:**
-* Calculates average discharge () and annual precipitation ().
+* Calculates average discharge (m³/s) and annual precipitation (mm/year).
 * Assesses forest cover percentages per basin.
 * Generates statistical charts (histograms, boxplots) and localized maps.
 
@@ -45,7 +45,7 @@ The repository is divided into three distinct analytical modules:
 * **Outputs:**
 * **Transition Map:** Visualizes changes (e.g., "Permanent to Seasonal", "New Permanent Water").
 * **Occurrence Map:** Frequency of water presence (0-100%).
-* Calculates total area () for each water class.
+* Calculates total area (m) for each water class.
 
 
 
