@@ -188,3 +188,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 **Developed with 🌎 & 🐍 for the Open Science Community.**
+
+**LinkedIN: www.linkedin.com/in/pedro-luiz-rodrigues-vaz-de-melo**
