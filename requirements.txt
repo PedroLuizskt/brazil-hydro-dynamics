@@ -1,0 +1,9 @@
+earthengine-api
+geemap
+geopandas
+rasterio
+matplotlib
+seaborn
+scipy
+shapely
+matplotlib-scalebar
